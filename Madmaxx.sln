@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Madmaxx", "Madmaxx.csproj", "{63C693A8-950D-4983-ADBC-F35C6AD02670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Madmaxx.shared", "..\Madmaxx.shared\Madmaxx.shared.csproj", "{91DF59DF-4892-4D7C-B4C8-A1B35645B012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C693A8-950D-4983-ADBC-F35C6AD02670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C693A8-950D-4983-ADBC-F35C6AD02670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C693A8-950D-4983-ADBC-F35C6AD02670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C693A8-950D-4983-ADBC-F35C6AD02670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DF59DF-4892-4D7C-B4C8-A1B35645B012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DF59DF-4892-4D7C-B4C8-A1B35645B012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DF59DF-4892-4D7C-B4C8-A1B35645B012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DF59DF-4892-4D7C-B4C8-A1B35645B012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C03E850-C7F9-440C-A8C9-C64505380BA7}
+	EndGlobalSection
+EndGlobal
